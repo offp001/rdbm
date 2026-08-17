@@ -18,7 +18,7 @@
 
 ### FFlag Manager
 
-* FFlag injector (FFlag injectors interacts with roblox memory it means you can get banned for using these, but its undetected.)
+* FFlag injector (FFlag injectors interacts with roblox memory it means you can get banned for using these, `Use it at your own risk!`)
 
 ### Configs
 
