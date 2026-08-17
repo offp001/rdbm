@@ -1,4 +1,4 @@
-# Roblox DB Manager
+# RoUtils
 
 ## Features
 
@@ -11,6 +11,9 @@
   * `RBXM`
   * `Image`
   * `Copy / Save Hash`
+* **R6 to R15 Animations** – Convert R6 Animations to R15 Animations
+* **RBXM to RBXH Blob** – Convert RBXM Files to RBXH Blob
+* **FFlag Manager** – FFlag injector (FFlag injectors interacts with roblox memory it means you can get banned for using these, but its undetected.)
 
 ## Requirements
 
@@ -25,16 +28,8 @@
 
 1. Install **Python 3.9+**.
 2. Download or clone this repository.
-3. Open a terminal in the project folder.
-4. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-5. Run `rdbm.pyw`.
+3. Open `install_requirements.cmd` (It will download requirements and will open routils.pyw.)
 
 ## Credits
 
-* `Lorno`
 * `offp001`
